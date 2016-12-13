@@ -16,5 +16,9 @@ EGO日报每周一到周六更新，周日休刊。
 EGO日报在EGO微信公众号首发，在EGO线上管理公开课微信群同步发送。
 
 微信扫描二维码，关注EGO公众号，获取更多技术管理干货
+请扫描 StuQ 技能图谱微店地址二维码，以赞助形式获赠 StuQ 技能图谱纸质版。
+
+![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQWMall-QRCode-100X100.png)
 
 ![](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQ-QRCode-100X100.png）
+
