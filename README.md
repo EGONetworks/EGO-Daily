@@ -20,5 +20,5 @@ EGO日报在EGO微信公众号首发，在EGO线上管理公开课微信群同�
 
 ![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQWMall-QRCode-100X100.png)
 
-![](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQ-QRCode-100X100.png）
+![](https://github.com/EGONetworks/EGO-Daily/blob/master/img/EGO-QR-code-256X256.png)
 
