@@ -16,4 +16,5 @@ EGO日报每周一到周六更新，周日休刊。
 EGO日报在EGO微信公众号首发，在EGO线上管理公开课微信群同步发送。
 
 微信扫描二维码，关注EGO公众号，获取更多技术管理干货
+
 ![EGO 微信公众号二维码](https://github.com/EGONetworks/EGO-Daily/blob/master/img/EGO-QR-code-1280X1280.jpg）
