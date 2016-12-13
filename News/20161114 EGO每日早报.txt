@@ -1,0 +1,32 @@
+11.14 EGO每日早报
+
+新闻：
+
+1.原定于15日发布的Fedora 25最终版因Bug推迟至11月22日发布
+
+2.中央网信办正制定个人信息收集规范标准，配合网络实名制入法
+
+3.Facebook Messenger测试一项基于话题展开的非好友间的群聊功能
+
+4.京华时报社确定将于明年1月1日起停刊
+
+5.美国联邦法官责令亚马逊退还儿童应用内购费用
+
+6.血糖监控系统医疗公司Intuity Medical获得4000万美元风投
+
+7.Line放弃美国市场，借助AI和聊天机器人主攻亚洲市场
+
+资源：
+
+长租公寓行业TOP10榜单（亿欧）
+http://est.iyiou.com/p/34432
+
+2015-2020全球年度云指数报告（思科）
+http://www.cisco.com/c/dam/en/us/solutions/collateral/service-provider/global-cloud-index-gci/white-paper-c11-738085.pdf
+
+
+注：上述内容来源于互联网，由EGO整理
+
+关注公众号，回复“早报”，获取文字版早报内容~
+
+还有更多技术管理干货

@@ -1,0 +1,31 @@
+11.4 EGO每日早报
+
+新闻：
+
+1.京东金融与美国大数据公司ZestFinance联合发起合资公司ZRobot
+
+2.骑呗单车与芝麻信用宣布共享单车入驻杭州，将在杭州投放10万辆单纯
+
+3.亚马逊推出儿童阅读应用Rapids，以对话形式向孩子讲故事
+
+4.移动互联网停车平台停简单获数亿元B轮融资，投资方为复星集团、红星美凯龙等
+
+5.美国肠道健康企业uBiome获2200万美元B轮融资，检测粪便中的微生物DNA
+
+6.Google正式结束对Eclipse Android开发工具的支持，推荐使用自家的Android Studio
+
+7.微软推出移动办公协同工具Microsoft Teams，正式开展移动办公业务
+
+资源：
+
+2016 Q3母婴行业微信公众号数据洞察报告（很快）
+http://data.henkuai.com/Models/home/index.php
+
+2016年Q3移动广告SDK分布趋势（Adsee Data）
+http://www.199it.com/archives/532642.html
+
+注：上述内容来源于互联网，由EGO整理
+
+关注公众号，回复“早报”，获取文字版早报内容~
+
+还有更多技术管理干货
