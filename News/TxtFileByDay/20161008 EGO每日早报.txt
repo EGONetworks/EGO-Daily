@@ -1,0 +1,32 @@
+10.8 EGO每日早报
+
+新闻：
+
+1.2016年全球最佳品牌发布，苹果谷歌可口可乐分列三甲，华为和联想再次上榜
+
+2.Oculus公司推出基于Web VR体验的开发工具React和世界首款VR浏览器Carmel
+
+3.Visual Studio 15 Preview 5发布，大幅提升性能和内存效率
+
+4.Google开源SLAM地图软件Cartographer，可用于机器人、无人驾驶和无人机系统
+
+5.最新预览版Windows 10 14936允许用户卸载系统自带应用程序
+
+6.氢燃料电池四座客机成功试飞，飞行持续15分钟
+
+7.Google发布Pixel手机、Daydream VR头显等多款硬件产品，战略转向人工智能优先
+
+8.跨境B2B交易机构Payoneer完成1.8亿美元E轮融资，加速全球业务扩张
+
+资源：
+
+中国银行全球经济金融展望报告（2016年第4季度）
+http://www.boc.cn/fimarkets/summarize/201609/t20160929_7757246.html
+
+基于Android 6.0的小米MIUI 8开源
+https://github.com/MiCode/patchrom_miui
+
+注：上述内容来源于互联网，由EGO整理
+
+关注公众号，回复“早报”，获取文字版早报内容~
+还有更多技术管理干货

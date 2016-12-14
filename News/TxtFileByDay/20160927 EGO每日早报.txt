@@ -1,0 +1,30 @@
+9.27 EGO每日早报
+
+新闻：
+
+1.美团点评全资收购钱袋宝，获第三方支付牌照
+
+2.百度开放深度学习平台PaddlePaddle，可在GitHub下载
+
+3.Chrome OS现可运行Android应用，目前仅限特定机型
+
+4.ofo共享单车获滴滴出行数千万美元战略投资
+
+5.浪潮与思科合资公司获批，双方投资总额2.8亿美元
+
+6.新华网IPO获证监会核准，登陆A股募资15亿元
+
+7.Uber启动垂直起降飞行器研究，提供市内短途飞行服务
+
+资源：
+
+2016年上半年移动教育市场研究报告
+http://www.bigdata-research.cn/content/201609/344.html
+
+中国生鲜消费趋势报告
+http://www.bcg.com.cn/cn/newsandpublications/publications/reports/report20160923001.html
+
+注：上述内容来源于互联网，由EGO整理
+
+关注公众号，回复“早报”，获取文字版早报内容~
+还有更多技术管理干货

@@ -1,0 +1,33 @@
+12.07 EGO每日早报
+
+新闻：
+
+1.微博问答上线，大V自定价格并以文字回答提问，其余粉丝可付费观看回答
+
+2.文化部新规出台，网游用户应实名并禁止以游客模式充值消费
+
+3.谷歌DeepMind在GitHub开源其AI训练平台DeepMind Lab
+
+4.传奇黑客George Hotz宣布开源Comma.ai的自动驾驶套件
+
+5.腾讯在GitHub开源Unity手游自动化测试框架GAutomator
+
+6.乐视体育架构调整，成立三大事业群，并整体裁员10%左右
+
+7.中兴斥资1亿美元收购土耳其电信工程公司Netas近半股权
+
+8.Uber宣布收购纽约人工智能技术初创公司Geometric Intelligence并组建AI实验室
+
+资源：
+
+Alphabet旗下的AI训练平台DeepMind Lab
+https://github.com/deepmind/lab
+
+急速提升开发效率的27款iOS开源库
+https://www.oschina.net/translate/27-ios-open-source-libraries-to-skyrocket-your-development
+
+注：上述内容来源于互联网，由EGO整理
+
+关注公众号，回复“早报”，获取文字版早报内容~
+
+还有更多技术管理干货
