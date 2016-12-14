@@ -2,6 +2,7 @@
 ##何为EGO
 EGO是EGONetworks的简称。
 EGO是极客邦科技旗下高端技术人聚集和交流的组织，以CTO、技术VP等技术领导者为服务对象，采用实名付费会员制，严格审核会员资格，旨在组建全球最具影响力的技术领导者社交网络，线上线下相结合，联结杰出的技术领导者学习和成长。
+
 ![EGO logo](https://github.com/EGONetworks/EGO-Daily/blob/master/ego-logo.png)
 ##EGO会员
 EGO目前在中国大陆用有超过270位会员，详细名单参见**[http://ego.geekbang.org/member](http://ego.geekbang.org/member)**
