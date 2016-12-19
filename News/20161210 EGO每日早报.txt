@@ -1,31 +1,31 @@
-12.10 EGOÃ¿ÈÕÔç±¨
+12.10 EGOæ¯æ—¥æ—©æŠ¥
 
-ÐÂÎÅ£º
+æ–°é—»ï¼š
 
-1.°¢Àï°Í°ÍÓë»ª¿µ×ÖÌå¹«Ë¾ºÏ×÷£¬ºóÕß45¿î×ÖÌå¿ÉÔÚ°¢ÀïÆ½Ì¨ÓÀ¾ÃÃâ·ÑÊ¹ÓÃ
+[1.é˜¿é‡Œå·´å·´ä¸ŽåŽåº·å­—ä½“å…¬å¸åˆä½œï¼ŒåŽè€…45æ¬¾å­—ä½“å¯åœ¨é˜¿é‡Œå¹³å°æ°¸ä¹…å…è´¹ä½¿ç”¨](http://tech.qq.com/a/20161214/018583.htm)
 
-2.WordPress.comÒÑÉý¼¶µ½PHP7£¬CPU¡¢latency¾ùÓÐ´ó·ùÌáÉýÓë¸Ä½ø
+2.WordPress.comå·²å‡çº§åˆ°PHP7ï¼ŒCPUã€latencyå‡æœ‰å¤§å¹…æå‡ä¸Žæ”¹è¿›
 
-3.AmazonÐû²¼½«MXNet×÷ÎªAWSµÄÉî¶ÈÑ§Ï°¿ò¼Ü
+3.Amazonå®£å¸ƒå°†MXNetä½œä¸ºAWSçš„æ·±åº¦å­¦ä¹ æ¡†æž¶
 
-4.¹²Ïíµ¥³µÆ½Ì¨ofoÐû²¼½øÈëÉîÛÚ£¬²¢ÓëÉîÛÚµØÌú´ï³ÉÕ½ÂÔºÏ×÷
+4.å…±äº«å•è½¦å¹³å°ofoå®£å¸ƒè¿›å…¥æ·±åœ³ï¼Œå¹¶ä¸Žæ·±åœ³åœ°é“è¾¾æˆæˆ˜ç•¥åˆä½œ
 
-5.´óÊý¾Ý½»Ò×Æ½Ì¨¾ÛºÏÊý¾ÝÐû²¼»ñµÃ3.6ÒÚÔªCÂÖÈÚ×Ê
+5.å¤§æ•°æ®äº¤æ˜“å¹³å°èšåˆæ•°æ®å®£å¸ƒèŽ·å¾—3.6äº¿å…ƒCè½®èžèµ„
 
-6.ÉñÖÝ×¨³µ½ÓÈëº½ÂÃ×Ýºá¿Í»§¶Ë£¬¿ÉÒ»¼üÔ¤Ô¼½ÓËÍ»ú
+6.ç¥žå·žä¸“è½¦æŽ¥å…¥èˆªæ—…çºµæ¨ªå®¢æˆ·ç«¯ï¼Œå¯ä¸€é”®é¢„çº¦æŽ¥é€æœº
 
-7.AirbnbÒÑ½«ÆäÖÐ¹úÒµÎñÇ¨ÖÁÎ»ÓÚÖÐ¹ú¾³ÄÚµÄ·þÎñÆ÷
+7.Airbnbå·²å°†å…¶ä¸­å›½ä¸šåŠ¡è¿è‡³ä½äºŽä¸­å›½å¢ƒå†…çš„æœåŠ¡å™¨
 
-×ÊÔ´£º
+èµ„æºï¼š
 
-2016Äê¶ÈÒÆ¶¯Í¨ÐÅÊÐ³¡µ÷ÑÐ±¨¸æ£¨°®Á¢ÐÅ£©
+2016å¹´åº¦ç§»åŠ¨é€šä¿¡å¸‚åœºè°ƒç ”æŠ¥å‘Šï¼ˆçˆ±ç«‹ä¿¡ï¼‰
 https://www.ericsson.com/res/docs/2016/ericsson-mobility-report-2016.pdf
 
-2016ÄêÖÐ¹úµÚÈý·½ÈÕÀúÀàAppÓÃ»§¶´²ì±¨¸æ£¨°¬Èð×ÉÑ¯£©
+2016å¹´ä¸­å›½ç¬¬ä¸‰æ–¹æ—¥åŽ†ç±»Appç”¨æˆ·æ´žå¯ŸæŠ¥å‘Šï¼ˆè‰¾ç‘žå’¨è¯¢ï¼‰
 http://report.iresearch.cn/report/201612/2683.shtml
 
-×¢£ºÉÏÊöÄÚÈÝÀ´Ô´ÓÚ»¥ÁªÍø£¬ÓÉEGOÕûÀí
+æ³¨ï¼šä¸Šè¿°å†…å®¹æ¥æºäºŽäº’è”ç½‘ï¼Œç”±EGOæ•´ç†
 
-¹Ø×¢¹«ÖÚºÅ£¬»Ø¸´¡°Ôç±¨¡±£¬»ñÈ¡ÎÄ×Ö°æÔç±¨ÄÚÈÝ~
+å…³æ³¨å…¬ä¼—å·ï¼Œå›žå¤â€œæ—©æŠ¥â€ï¼ŒèŽ·å–æ–‡å­—ç‰ˆæ—©æŠ¥å†…å®¹~
 
-»¹ÓÐ¸ü¶à¼¼Êõ¹ÜÀí¸É»õ
+è¿˜æœ‰æ›´å¤šæŠ€æœ¯ç®¡ç†å¹²è´§
