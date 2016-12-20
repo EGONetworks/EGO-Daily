@@ -1,32 +1,30 @@
-9.19 EGOÿ���籨
+9.19 EGO每日早报
 
-���ţ�
+新闻：
 
-1.���ǵ��ӳ���ϣ�ݺ����յ��ļҹ�˾�ɷ�
+[1.三星电子出售希捷和夏普等四家公司股份](http://www.techweb.com.cn/finance/2016-09-18/2394704.shtml)
 
-2.GoogleͶ�ʵ���������˾Ripple���5500����ԪB������
+[2.Google投资的区块链公司Ripple获得5500万美元B轮融资](http://www.leiphone.com/news/201609/LwqVC90MJXmkeYfU.html)
 
-3.����������ʽ���߹�Ӧ�����ڲ�Ʒ��������߿ɴ�3000��Ԫ
+[3.菜鸟网络正式上线供应链金融产品，单笔最高可贷3000万元](http://www.iyiou.com/p/31855)
 
-4.�й��׸������ｨ�Ĺ��һ���⽫��9��22����ʽ��Ӫ
+[4.中国首个获批筹建的国家基因库将于9月22号正式运营](http://tech.sina.com.cn/d/f/2016-09-18/doc-ifxvyqwa3399507.shtml)
 
-5.���Ӻ�ɫ919���Ե��̽�15����ȫƽ̨���۶�13.6��Ԫ
+[5.乐视黑色919乐迷电商节15分钟全平台销售额13.6亿元](http://tech.huanqiu.com/digiEnterprise/2016-09/9457131.html)
 
-6.�����ڶ�����Լ��������Lyft�����Զ���ʻ���������߼ƻ�
+[6.美国第二大网约车服务商Lyft公布自动驾驶汽车三步走计划](http://www.leiphone.com/news/201609/GV9T5XnsSEMGTYub.html)
 
-7.���������������B�����ʽӽ���ɣ������ֵ��80��Ԫ
+[7.海航旗下易生金服B轮融资接近完成，整体估值近80亿元](http://tech.163.com/16/0918/18/C191174D00097U7R.html)
 
-8.Twitter��Ͷ�������ߣ��������û��������û������Ե�ָ����Ͷ����
+[8.Twitter遭投资者起诉，被控在用户总数和用户互动性等指标误导投资者](http://www.techweb.com.cn/internet/2016-09-18/2394563.shtml)
 
-��Դ��
+资源：
 
-�й�����APP�г�ȫ���ݱ���
-http://tech.qq.com/a/20160918/005483.htm
+[中国旅游APP市场全数据报告](http://tech.qq.com/a/20160918/005483.htm）
 
-2016��������ʵ��ҵ��չ��Ƥ��
-http://wearable.ofweek.com/2016-09/ART-8120-5011-30039616.html
+[2016年虚拟现实产业发展白皮书](http://wearable.ofweek.com/2016-09/ART-8120-5011-30039616.html)
 
-ע������������Դ�ڻ���������EGO����
+注：上述内容来源于互联网，由EGO整理
 
-��ע���ںţ��ظ����籨������ȡ���ְ��籨����~
-���и��༼�������ɻ�
+关注公众号，回复“早报”，获取文字版早报内容~
+还有更多技术管理干货
