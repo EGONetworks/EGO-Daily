@@ -9,11 +9,11 @@ EGO是极客邦科技旗下高端技术人聚集和交流的组织，以CTO、�
 
 ## EGO会员
 
-EGO目前在中国大陆用有超过270位会员，详细名单参见**[http://ego.geekbang.org/member](http://ego.geekbang.org/member)**
+EGO目前在中国大陆用有超过270位会员，详细名单参见 **[http://ego.geekbang.org/member](http://ego.geekbang.org/member)**
 
 ## EGO官网
 
-EGO的官网是**[www.egonetworks.org](www.egonetworks.org)**或**[http://ego.geekbang.org](http://ego.geekbang.org)**
+EGO的官网是 **[www.egonetworks.org](www.egonetworks.org)** 或 **[http://ego.geekbang.org](http://ego.geekbang.org)**
 
 ## 何为EGO日报（EGO Daily）
 
@@ -27,7 +27,7 @@ EGO日报每周一到周六更新，周日休刊。
 
 其余时间正常更新。
 
-** 从2017年3月起，EGO日报更新时间调整为为每天下午。**
+ **从2017年3月起，EGO日报更新时间调整为为每天下午。**
 
 ## 发布渠道
 
