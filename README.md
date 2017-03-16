@@ -1,5 +1,5 @@
 # EGO-Daily
-##何为EGO
+## 何为EGO
 
 EGO是EGONetworks的简称。
 
@@ -7,19 +7,19 @@ EGO是极客邦科技旗下高端技术人聚集和交流的组织，以CTO、�
 
 ![EGO logo](https://github.com/EGONetworks/EGO-Daily/blob/master/ego-logo.png)
 
-##EGO会员
+## EGO会员
 
 EGO目前在中国大陆用有超过270位会员，详细名单参见**[http://ego.geekbang.org/member](http://ego.geekbang.org/member)**
 
-##EGO官网
+## EGO官网
 
 EGO的官网是**[www.egonetworks.org](www.egonetworks.org)**或**[http://ego.geekbang.org](http://ego.geekbang.org)**
 
-##何为EGO日报（EGO Daily）
+## 何为EGO日报（EGO Daily）
 
 EGO日报是EGO（EGONetworks）面向广大EGO会员和EGO关注者提供的咨询服务，每天提供7~8条新闻资讯和1~3条报告类资源；
 
-##更新频率
+## 更新频率
 
 EGO日报每周一到周六更新，周日休刊。
 
@@ -27,9 +27,9 @@ EGO日报每周一到周六更新，周日休刊。
 
 其余时间正常更新。
 
-** 从2017年3月起，EGO日报更新时间调整为为每天下午。
+** 从2017年3月起，EGO日报更新时间调整为为每天下午。**
 
-##发布渠道
+## 发布渠道
 
 EGO日报在EGO微信公众号首发，在EGO线上管理公开课微信群同步发送。
 
